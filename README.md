@@ -9,12 +9,6 @@
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=spcma&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spcma&theme=monokai">
 
-### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/spcma)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
-
 
 | :pencil2: | :book:  |
 | --- | --- |
